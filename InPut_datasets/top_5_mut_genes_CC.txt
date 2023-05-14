@@ -1,0 +1,11 @@
+gene	mut_freq	study
+TTN	31.3	Pancancer
+PIK3CA	28.5	Pancancer
+KMT2C	18.6	Pancancer
+MUC4	17.2	Pancancer
+MUC16	16.5	Pancancer
+TTN	32.0	Legacy firehose
+PIK3CA	27.3	Legacy firehose
+KMT2C	14.9	Legacy firehose
+MUC4	19.1	Legacy firehose
+MUC16	14.4	Legacy firehose
